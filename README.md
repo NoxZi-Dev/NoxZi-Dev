@@ -22,7 +22,8 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 <a href="https://fivem.net/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Y1SVgJw.png" alt="fivem" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NoxZi-Dev&show_icons=true&locale=en&layout=compact&theme=tokyonight"  /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noxzi-dev&show_icons=true&locale=en&layout=compact" alt="noxzi-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NoxZi-Dev&show_icons=true&locale=en&theme=tokyonight"  /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noxzi-dev&show_icons=true&locale=en" alt="noxzi-dev" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noxzi-dev&" alt="noxzi-dev" /></p>
